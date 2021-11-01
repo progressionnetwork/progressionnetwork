@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! I am __malwana__, data scientist and chatbot developer. 👋
+I am __malwana__, a self-professed geek, data scientist and chatbot developer.
 
 You can read more about me in [Russian](https://futureagi.ru/) or [English](https://futureagi.com/).
 
