@@ -14,6 +14,10 @@ Some of my interests are:
 * STT, TTS, ASR
 * Hardware & robotics, DIY
 
+Contacts:
+* ![Alt text](https://github.com/progressionnetwork/progressionnetwork/blob/main/s.png?raw=true "Title")
+* my mail will be here...
+
 <!--
 **progressionnetwork/progressionnetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
