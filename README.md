@@ -6,12 +6,14 @@ You can read more about me in [Russian](https://futureagi.ru/) or [English](http
 
 Some of my interests are:
 
-* NLP, NLU, Text mining & summarizing   , Sentiment analysis
-* Knowledge graphs, Chat bots, Expert systems
+* Coding: Python, C\C++, asm_86;
+* Cybersecurity, Bianry & Malware analysis, BEC analysis;
+* ML: Classification, Clusterization via DTs, GB, Regression
+* NLP: NLU, Text mining & summarizing, Sentiment analysis;
+* Knowledge graphs, Chat bots, Expert systems, Scoring & Recommendation systems
 * Transformers, Language models
-* Scoring & Recommendation systems
 * Futures analysis & engineering
-* STT, TTS, ASR
+* STT, TTS, ASR, VAD
 * Hardware & robotics, DIY
 
 Contacts:
