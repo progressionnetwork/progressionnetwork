@@ -161,3 +161,5 @@ Links:
 * Donate: [link](https://pay.cloudtips.ru/p/ea94d893)
 
 -->
+
+<img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/212294209/original/5d76d3dd2423b06eb28157edd05f55345f4c7946/help-you-set-up-your-tech-startup.jpg">
