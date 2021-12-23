@@ -20,6 +20,21 @@ Contacts:
 * ![Alt text](https://github.com/progressionnetwork/progressionnetwork/blob/main/s.png?raw=true "Title")
 * my mail will be here...
 
+
+<p align="center">
+  <b><i>Let's connect! Find me on the web.</i></b>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/________/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://________.medium.com/"><img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/________"><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/________/"><img height="30" src="https://img.shields.io/badge/facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/________/"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
+<a href="mailto:________@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://t.me/________"><img height="30" src="https://img.shields.io/badge/telegram-blue?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
+</p>
+</p>
+
 ---
 <p align=center>
     <img src="https://badges.pufler.dev/visits/progressionnetwork/progressionnetwork?color=black&logo=github" />
@@ -36,8 +51,8 @@ Contacts:
     <img src="https://github-readme-streak-stats.herokuapp.com?user=arghyadeep99&theme=nightowl"></img>
   </a>
 </p>
----
 
+---
 <h3>Github Stats 📊</h3>
 
 <p align="center">
