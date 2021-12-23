@@ -2,11 +2,13 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/33197180/125737592-447b9a2b-cbdd-44d4-9e8b-a990e88cac29.gif?raw=true" width="380" height="300" />
 
+t learning, text-to-speech, and other fascinating things. If you need help with any of my projects or you would like to collaborate, do not hesitate to contact me.
+
 I am __uberwow__, a self-professed geek, serial startuper, data scientist and Python\C++ developer.
 
 You can read more about me in [Russian](https://futureagi.ru/) or [English](https://futureagi.com/).
 
-Some of my interests are:
+## Some of my interests are:
 
 * Startups, VC;  
 * Coding: Python, C\C++, asm_86;  
@@ -128,7 +130,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 Projects:
 * [purano, news clustering system in Python](https://github.com/IlyaGusev/purano)
@@ -159,3 +161,4 @@ Links:
 * Orchid ID: [0000-0002-8930-729X](https://orcid.org/0000-0002-8930-729X)
 * Donate: [link](https://pay.cloudtips.ru/p/ea94d893)
 
+-->
