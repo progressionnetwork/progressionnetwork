@@ -7,11 +7,12 @@ I am __uberwow__, a self-professed geek, serial startuper, data scientist and Py
 You can read more about me in [Russian](https://futureagi.ru/) or [English](https://futureagi.com/).
 
 Some of my interests are:
+<p>
 <samp>
 * Startups, VC;
 * Coding: Python, C\C++, asm_86;
 * Cybersecurity, Binary & Malware analysis, BEC analysis;
-* ML: Classification, Clusterization via DTs, GB, Regression
+* ML: Reinforcement Learning, Natural Language Processing, Computer Vision and Generative Models, Classification, Clusterization via DTs, GB, Regression
 * NLP: NLU, Text mining & summarizing, Sentiment analysis;
 * Knowledge graphs, Chat bots, Expert systems, Scoring & Recommendation systems
 * Transformers, Language models
@@ -19,6 +20,7 @@ Some of my interests are:
 * STT, TTS, ASR, VAD
 * Hardware & robotics, DIY
 </samp>
+</p>
 
 Contacts:
 * ![Alt text](https://github.com/progressionnetwork/progressionnetwork/blob/main/s.png?raw=true "Title")
