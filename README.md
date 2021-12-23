@@ -21,6 +21,22 @@ Contacts:
 * my mail will be here...
 
 ---
+<p align=center>
+    <img src="https://badges.pufler.dev/visits/progressionnetwork/progressionnetwork?color=black&logo=github" />
+    <img src="https://komarev.com/ghpvc/?username=progressionnetwork&color=brightgreen" />
+    <a href="https://github.com/progressionnetwork">
+    <img src="https://badges.pufler.dev/commits/monthly/progressionnetwork?color=blue" />
+    </a>
+</p>
+
+
+<h3>Github Streak :fire:</h3>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=arghyadeep99&theme=nightowl"></img>
+  </a>
+</p>
+---
 
 <h3>Github Stats 📊</h3>
 
