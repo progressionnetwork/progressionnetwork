@@ -2,14 +2,15 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/33197180/125737592-447b9a2b-cbdd-44d4-9e8b-a990e88cac29.gif?raw=true" width="380" height="300" />
 
-I am __uberwow__, a self-professed geek, data scientist and Python\C++ developer.
+I am __uberwow__, a self-professed geek, serial startuper, data scientist and Python\C++ developer.
 
 You can read more about me in [Russian](https://futureagi.ru/) or [English](https://futureagi.com/).
 
 Some of my interests are:
-
+<samp>
+* Startups, VC;
 * Coding: Python, C\C++, asm_86;
-* Cybersecurity, Bianry & Malware analysis, BEC analysis;
+* Cybersecurity, Binary & Malware analysis, BEC analysis;
 * ML: Classification, Clusterization via DTs, GB, Regression
 * NLP: NLU, Text mining & summarizing, Sentiment analysis;
 * Knowledge graphs, Chat bots, Expert systems, Scoring & Recommendation systems
@@ -17,11 +18,11 @@ Some of my interests are:
 * Futures analysis & engineering
 * STT, TTS, ASR, VAD
 * Hardware & robotics, DIY
+</samp>
 
 Contacts:
 * ![Alt text](https://github.com/progressionnetwork/progressionnetwork/blob/main/s.png?raw=true "Title")
 * my mail will be here...
-
 
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
