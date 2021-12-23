@@ -10,9 +10,13 @@ Some of my interests are:
 <p>
 <samp>
 * Startups, VC;
+  
 * Coding: Python, C\C++, asm_86;
+  
 * Cybersecurity, Binary & Malware analysis, BEC analysis;
-* ML: Reinforcement Learning, Natural Language Processing, Computer Vision and Generative Models, Classification, Clusterization via DTs, GB, Regression
+  
+* ML: Reinforcement Learning, Natural Language Processing, Computer Vision and Generative Models, Classification, Clusterization via DTs, GB, Regression;
+  
 * NLP: NLU, Text mining & summarizing, Sentiment analysis;
 * Knowledge graphs, Chat bots, Expert systems, Scoring & Recommendation systems
 * Transformers, Language models
