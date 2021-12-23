@@ -25,6 +25,7 @@ Contacts:
 * ![Alt text](https://github.com/progressionnetwork/progressionnetwork/blob/main/s.png?raw=true "Title")
 * my mail will be here...
 
+---
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
 
