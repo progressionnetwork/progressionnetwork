@@ -3,27 +3,48 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/33197180/125737592-447b9a2b-cbdd-44d4-9e8b-a990e88cac29.gif?raw=true" width="380" height="300" />
 
 I am __uberwow__, a self-professed geek, serial startuper, data scientist and Python\C++ developer.
+
 If you need help with any of my projects or you would like to collaborate, do not hesitate to contact me.
 
-You can read more about me in [Russian](https://futureagi.ru/) or [English](https://futureagi.com/).
+You can read more about me in [Russian](https://titanida.com/russian) or [English](https://titanida.com/english).
 
+## My competences:
+
+* Project management, team building;
+* MVP & architecture creation
+* UI\UX concepts creation
+* Development: Python, C\C++;
+* Binary analysis;
+* Text mining & summarizing, sentiment analysis 
+* Data mining & preprocessing: cleaning, features building
+* Web parsing, dataset creation from OSINT
+* Telegram bots dev
+* Speech recognition and synthesis (ASR and TTS)
+    
 ## Some of my interests are:
 
-* Startups, VC;  
-* Coding: Python, C\C++, asm_86;  
-* Cybersecurity, Binary & Malware analysis, BEC analysis;  
-* ML: Reinforcement Learning, Natural Language Processing, Computer Vision and Generative Models, Classification, Clusterization via DTs, GB, Regression;
-* NLP: NLU, Text mining & summarizing, Sentiment analysis;
-* Knowledge graphs, Chat bots, Expert systems, Scoring & Recommendation systems
+* IT Startups, VC;
+* Biohacking, healthcare, wellness, medical devices
+* ML: RL, NLP, CV, Generative Models;
+* NLP: NLU, Text mining & summarizing, Sentiment analysis
+* Knowledge graphs, Chat bots, Expert, Recommendation & scoring systems;
 * Transformers, Language models
-* Futures analysis & engineering
-* STT, TTS, ASR, VAD
+* ASR: STT, TTS, 
+* Cybersecurity skills
 * Hardware & robotics, DIY
 
+## Experience:
 
+* Python 4+ years
+* C\C++ 5+ years
+* Data mining 2+ years (Selenium, Requests, BeautifulSoup4, pyscrapy)
+* Data preprocessing 2+ years (Pandas, Matplotlib)
+* Machine learning (Pandas, Matplotlib, PyTorch, Scikit-Learn, Catboost, XGBoost, Classification & Clusterization Algorithms, SVM, Decision Trees, Feature Extraction, Feature engineering)
+    
+    
 Contacts:
-* ![Alt text](https://github.com/progressionnetwork/progressionnetwork/blob/main/s.png?raw=true "Title")
-* my mail will be here...
+* ![Alt text](https://img3.teletype.in/files/e4/a2/e4a22549-6a02-4715-b3f7-89c2636e9daf.png)
+* progression.official🌍gmail.com
 
 ---
 <p align="center">
