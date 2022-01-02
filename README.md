@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/33197180/125737592-447b9a2b-cbdd-44d4-9e8b-a990e88cac29.gif?raw=true" width="380" height="300" />
 
-I am __uberwow__, a self-professed geek, serial startuper, data scientist and Python\C++ developer.
+I am __uberwow__, a self-professed geek, director of experimentation, serial startuper, data scientist and Python\C++ developer.
 
 If you need help with any of my projects or you would like to collaborate, do not hesitate to contact me.
 
